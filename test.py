@@ -1,8 +1,12 @@
+"""
+This module demonstrates test-related functionality.
+"""
+
 def test():
     """
-    this is demo
+    A test function that returns True.
     """
-    print("Hello world")
+    return True
 
 
 test()
