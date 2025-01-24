@@ -1,3 +1,8 @@
-print("Hello World")
-print("New Changes")
-print("Done changes from github")
+def test():
+    """
+    this is demo
+    """
+    print("Hello world")
+
+
+test()
